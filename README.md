@@ -1,6 +1,10 @@
 # data-lab-lite
 
 <p align="center">
+  <strong>English</strong> | <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <strong>Lightweight, reproducible data analysis for agents.</strong>
 </p>
 
@@ -44,6 +48,7 @@ If the user only asks a conceptual or methodological question and does not provi
 data-lab-lite/
 ├── SKILL.md
 ├── README.md
+├── README.zh-CN.md
 ├── assets/
 │   ├── report-template.md
 │   └── run-summary-schema.json
